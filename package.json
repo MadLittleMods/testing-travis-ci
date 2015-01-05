@@ -1,0 +1,23 @@
+{
+  "name": "testing-travis-ci",
+  "version": "1.0.0",
+  "description": "testing-travis-ci =================",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MadLittleMods/testing-travis-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadLittleMods/testing-travis-ci/issues"
+  },
+  "homepage": "https://github.com/MadLittleMods/testing-travis-ci",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-marked": "^1.0.0"
+  }
+}
